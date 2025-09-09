@@ -22,10 +22,21 @@ A **Python GUI app** to track, analyze, and visualize heart rate data over time.
 python main.py
 ```
 
-2. Enter heart rate → click **Add heart rate**.
-3. Use buttons to see **Average**, **Max**, **Min**, or **Graph**.
-4. Non-numeric input triggers an error popup automatically.
-5. Uses Matplotlib to plot the graph
+2. Enter your heart rate in the input box and click Add heart rate.
+
+3. Use the buttons to:
+
+. Average heart rate → shows average bpm and normal/out-of-range status.
+
+. Maximum heart rate → shows highest recorded bpm and timestamp.
+
+. Minimum heart rate → shows lowest recorded bpm and timestamp.
+
+. Show Graph → plots the heart rate over time.
+
+4. Warnings pop up if heart rate is high or low.
+
+5. Invalid input (non-numeric) is automatically caught and shows an error.
 
 ---
 
