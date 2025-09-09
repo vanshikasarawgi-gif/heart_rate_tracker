@@ -26,13 +26,13 @@ python main.py
 
 3. Use the buttons to:
 
-. Average heart rate → shows average bpm and normal/out-of-range status.
+   . Average heart rate → shows average bpm and normal/out-of-range status.
 
-. Maximum heart rate → shows highest recorded bpm and timestamp.
+   . Maximum heart rate → shows highest recorded bpm and timestamp.
 
-. Minimum heart rate → shows lowest recorded bpm and timestamp.
+   . Minimum heart rate → shows lowest recorded bpm and timestamp.
 
-. Show Graph → plots the heart rate over time.
+   . Show Graph → plots the heart rate over time.
 
 4. Warnings pop up if heart rate is high or low.
 
